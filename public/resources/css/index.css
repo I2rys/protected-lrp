@@ -1,0 +1,59 @@
+#login-form{
+    position: relative;
+    right: auto;
+    left: 400px;
+    width: 500px;
+    height: 609px;
+    background-color: #e5d8d8;
+}
+
+#title{
+    position: relative;
+    text-align: center;
+    color: #cdbfbf;
+}
+
+#username{
+    position: relative;
+    text-align: center;
+    top: 50px;
+    right: 180px;
+    color: #cdbfbf;
+}
+
+#username-input{
+    position: relative;
+    text-align: left;
+    width: 420px;
+    height: 20px;
+    top: 30px;
+    left: 19px;
+    color: black;
+}
+
+#password{
+    position: relative;
+    text-align: center;
+    top: 120px;
+    right: 180px;
+    color: #cdbfbf;
+}
+
+#password-input{
+    position: relative;
+    text-align: left;
+    width: 420px;
+    height: 20px;
+    top: 100px;
+    left: 19px;
+    color: black;
+}
+
+#login{
+    position: relative;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    top: 200px;
+    left: 150px;
+}
